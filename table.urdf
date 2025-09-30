@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<robot name="table_object">
+  <link name="table">
+    <visual>
+      <origin xyz="0 0 0.25"/>
+      <geometry><box size="0.6 0.4 0.5"/></geometry>
+    </visual>
+    <collision>
+      <origin xyz="0 0 0.25"/>
+      <geometry><box size="0.6 0.4 0.5"/></geometry>
+    </collision>
+  </link>
+</robot>

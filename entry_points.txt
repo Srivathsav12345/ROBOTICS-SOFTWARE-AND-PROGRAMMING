@@ -1,0 +1,3 @@
+[console_scripts]
+camera_node = tb3_autonomy.camera_node:main
+fsm_node = tb3_autonomy.fsm_node:main
